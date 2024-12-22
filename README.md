@@ -30,6 +30,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/beab0o/beab0o/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/beab0o/beab0o/output/snake.svg" alt="Snake" />
 
 ###
